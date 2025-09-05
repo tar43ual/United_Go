@@ -82,12 +82,12 @@
    	 	<repository>
         	<id>central</id>
        	 	<name>L0007576-releases</name>
-        	<url>http://localhost:8081/artifactory/UnitedGo</url>
+        	<url>http://localhost:8082/artifactory/UnitedGo</url>
     	</repository>
     	<snapshotRepository>
         	<id>snapshots</id>
         	<name>L0007576-snapshots</name>
-        	<url>http://localhost:8081/artifactory/UnitedGo</url>
+        	<url>http://localhost:8082/artifactory/UnitedGo</url>
     	</snapshotRepository>
 	</distributionManagement>
 
