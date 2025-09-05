@@ -79,10 +79,6 @@
 	</dependencies>
 	
 	<distributionManagement>
-   	 	<repository>
-        	<id>central</id>
-        	<url>http://localhost:8082/artifactory/UnitedGo</url>
-    	</repository>
     	<snapshotRepository>
         	<id>snapshots</id>
         	<url>http://localhost:8082/artifactory/UnitedGo</url>
