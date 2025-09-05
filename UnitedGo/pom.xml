@@ -82,7 +82,7 @@
     <repository>
         <id>artifactory</id>
         <name>Artifactory Maven Repo</name>
-        <url>https://yourcompany.jfrog.io/artifactory/United_Go</url>
+        <url>https://yourcompany.jfrog.io/artifactory/UnitedGo</url>
        </repository>
 	  </distributionManagement>
 
